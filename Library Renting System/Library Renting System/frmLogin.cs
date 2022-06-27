@@ -13,7 +13,7 @@ namespace Library_Renting_System
     public partial class frmLogin : Form
     {
 
-        string conectionString = @"Data Source = DESKTOP-QALE503; Initial Catalog = UserRegistrationDB; Integrated Security=True;";
+        string conectionString = @"Data Source = (local); Initial Catalog = UserRegistrationDB; Integrated Security=True;";
         
         public frmLogin()
         {

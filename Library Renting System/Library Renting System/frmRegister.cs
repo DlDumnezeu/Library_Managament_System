@@ -14,7 +14,7 @@ namespace Library_Renting_System
 {
     public partial class frmRegister : Form
     {
-        string conectionString = @"Data Source = DESKTOP-QALE503; Initial Catalog = UserRegistrationDB; Integrated Security=True;";
+        string conectionString = @"Data Source = (local); Initial Catalog = UserRegistrationDB; Integrated Security=True;";
 
         public frmRegister()
         {

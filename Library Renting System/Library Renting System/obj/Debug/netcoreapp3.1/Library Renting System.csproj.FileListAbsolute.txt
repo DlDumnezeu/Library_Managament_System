@@ -50,3 +50,55 @@ C:\Users\sabau\source\repos\Library Renting System\Library Renting System\obj\De
 C:\Users\sabau\source\repos\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Forms.Inchiriere.resources
 C:\Users\sabau\source\repos\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Forms.Returnare.resources
 C:\Users\sabau\source\repos\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Forms.frmCont.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Library Renting System.exe
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Library Renting System.deps.json
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Library Renting System.runtimeconfig.json
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Library Renting System.runtimeconfig.dev.json
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Library Renting System.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Library Renting System.pdb
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.csproj.AssemblyReference.cache
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.dashboard.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Forms.frmCont.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Forms.Donare.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Forms.Inchiriere.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Forms.Returnare.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.frmLogin.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.frmRegister.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library_Renting_System.Properties.Resources.resources
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.csproj.GenerateResource.cache
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.AssemblyInfoInputs.cache
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.AssemblyInfo.cs
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.csproj.CoreCompileInputs.cache
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.csproj.CopyComplete
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.dll
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.pdb
+C:\Users\sabau\Desktop\Git Projects\Library Management System\Library_Managament_System\Library Renting System\Library Renting System\obj\Debug\netcoreapp3.1\Library Renting System.genruntimeconfig.cache

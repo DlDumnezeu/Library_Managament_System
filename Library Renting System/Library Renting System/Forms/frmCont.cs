@@ -13,7 +13,7 @@ namespace Library_Renting_System.Forms
     {
         string username;
         string pass;
-        string conectionString = @"Data Source = DESKTOP-QALE503; Initial Catalog = UserRegistrationDB; Integrated Security=True;";
+        string conectionString = @"Data Source = (local); Initial Catalog = UserRegistrationDB; Integrated Security=True;";
         public frmCont(string username, string pass)
         {
             InitializeComponent();

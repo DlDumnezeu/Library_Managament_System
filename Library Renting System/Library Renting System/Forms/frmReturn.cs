@@ -12,8 +12,8 @@ namespace Library_Renting_System.Forms
     public partial class Returnare : Form
     {
         private string username;
-        private string conectionStringBook = @"Data Source = DESKTOP-QALE503; Initial Catalog = BookDB; Integrated Security=True;";
-        private string conectionStringRent = @"Data Source = DESKTOP-QALE503; Initial Catalog = RentDB; Integrated Security=True;";
+        private string conectionStringBook = @"Data Source = (local); Initial Catalog = BookDB; Integrated Security=True;";
+        private string conectionStringRent = @"Data Source = (local); Initial Catalog = RentDB; Integrated Security=True;";
         public Returnare( string username)
         {
             InitializeComponent();

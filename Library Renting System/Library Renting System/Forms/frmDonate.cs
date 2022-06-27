@@ -12,7 +12,7 @@ namespace Library_Renting_System.Forms
     public partial class Donare : Form
     {
 
-        string conectionString = @"Data Source = DESKTOP-QALE503; Initial Catalog = BookDB; Integrated Security=True;";
+        string conectionString = @"Data Source = (local); Initial Catalog = BookDB; Integrated Security=True;";
         public Donare()
         {
             InitializeComponent();
