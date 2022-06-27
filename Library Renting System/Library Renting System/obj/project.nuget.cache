@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p/m4Tsis6MP8magQc+Z6mL4aCgQsNNo4PxhiPYUZzszFVqThK30Ei7IwWm78g6sUlKt7aCkjBy56ojPwA7lJPQ==",
+  "dgSpecHash": "LoZUJX5VgHbza/CHBEwXPOz2u+AQGVh+Xo3Wh+2cE1foOirmp8joJpeGIv9MLWbxYY+P0QP/TMmAAOFXd994Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sabau\\source\\repos\\Library Renting System\\Library Renting System\\Library Renting System.csproj",
+  "projectFilePath": "C:\\Users\\sabau\\Desktop\\Git Projects\\Library Management System\\Library_Managament_System\\Library Renting System\\Library Renting System\\Library Renting System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sabau\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\sabau\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

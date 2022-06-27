@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabau\\source\\repos\\Library Renting System\\Library Renting System\\Library Renting System.csproj": {}
+    "C:\\Users\\sabau\\Desktop\\Git Projects\\Library Management System\\Library_Managament_System\\Library Renting System\\Library Renting System\\Library Renting System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabau\\source\\repos\\Library Renting System\\Library Renting System\\Library Renting System.csproj": {
+    "C:\\Users\\sabau\\Desktop\\Git Projects\\Library Management System\\Library_Managament_System\\Library Renting System\\Library Renting System\\Library Renting System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabau\\source\\repos\\Library Renting System\\Library Renting System\\Library Renting System.csproj",
+        "projectUniqueName": "C:\\Users\\sabau\\Desktop\\Git Projects\\Library Management System\\Library_Managament_System\\Library Renting System\\Library Renting System\\Library Renting System.csproj",
         "projectName": "Library Renting System",
-        "projectPath": "C:\\Users\\sabau\\source\\repos\\Library Renting System\\Library Renting System\\Library Renting System.csproj",
+        "projectPath": "C:\\Users\\sabau\\Desktop\\Git Projects\\Library Management System\\Library_Managament_System\\Library Renting System\\Library Renting System\\Library Renting System.csproj",
         "packagesPath": "C:\\Users\\sabau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabau\\source\\repos\\Library Renting System\\Library Renting System\\obj\\",
+        "outputPath": "C:\\Users\\sabau\\Desktop\\Git Projects\\Library Management System\\Library_Managament_System\\Library Renting System\\Library Renting System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

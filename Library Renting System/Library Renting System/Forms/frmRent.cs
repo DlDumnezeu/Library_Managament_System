@@ -12,9 +12,9 @@ namespace Library_Renting_System.Forms
     public partial class Inchiriere : Form
     {
         private string username;
-        private string conectionStringBook = @"Data Source = DESKTOP-QALE503; Initial Catalog = BookDB; Integrated Security=True;";
-        private string conectionStringRent = @"Data Source = DESKTOP-QALE503; Initial Catalog = RentDB; Integrated Security=True;";
-        private string conectionStringUser = @"Data Source = DESKTOP-QALE503; Initial Catalog = UserRegistrationDB; Integrated Security=True;";
+        private string conectionStringBook = @"(local); Initial Catalog = BookDB; Integrated Security=True;";
+        private string conectionStringRent = @"(local); Initial Catalog = RentDB; Integrated Security=True;";
+        private string conectionStringUser = @"(local); Initial Catalog = UserRegistrationDB; Integrated Security=True;";
 
         public Inchiriere(string username)
         {
